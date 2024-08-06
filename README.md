@@ -1,3 +1,5 @@
+![](https://github.com/joewadk/BTT-FinalProject/gif/btt.gif)
+
 # BTT Final Project
 Hello! As part of the final lab assignment for Break Through Tech AI's Machine Learning Course, I analyzed a given dataset, the AirBnB Listings data set, in order to best approximate the best listing for a user based on the location, price, and number of total rooms the user asks for. This was done over Jupyter Notebook, so be sure to run each cell chronologically.
 # Technologies I Used
