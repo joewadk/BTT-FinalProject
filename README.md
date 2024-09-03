@@ -1,7 +1,7 @@
 ![](https://github.com/joewadk/BTT-FinalProject/blob/master/gif/btt.gif)
 
 # BTT Final Project
-Hello! As part of the final lab assignment for Break Through Tech AI's Machine Learning Course, I analyzed a given dataset, the AirBnB Listings data set, in order to best approximate the best listing for a user based on the location, price, and number of total rooms the user asks for. This was done over Jupyter Notebook, so be sure to run each cell chronologically.
+Hello! As part of the final lab assignment for Break Through Tech AI's Machine Learning Course, I analyzed a given dataset, the AirBnB Listings data set, in order to best approximate the best listing for a user based on the location, price, and number of total rooms the user asks for. This was done over Jupyter Notebook, so be sure to run each cell chronologically. This model has been evaluated to have an R2 value of .90577, so it is fairly accurate.
 # Technologies I Used
 This project utilized a mix of unsupervised and supervised learning to get the best listings for the user. I had filtered formatted my listings based on relevant features, then summed up all rooms as a total rooms feature. I would then use unsupervised supervised, in particular K means clusters, in order to filter listings based on location, room number, and pricing. I would then use One Hot Encoding as well as Random Forest Regression to then rank my listings based on the review score ratings and the review score value (user Sentiment). 
 # Future Considerations
